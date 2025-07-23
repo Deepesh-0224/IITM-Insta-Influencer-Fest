@@ -1,4 +1,4 @@
-#include<Graph_class.h>
+#include<Graph.h>
 
 // Abstract base class for all queries
 class GraphAlgorithm {
